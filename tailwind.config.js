@@ -1,7 +1,7 @@
 module.exports = {
   content: [
     // Example content paths...
-    'index.html',
+    './index.html',
     './src/**/*.{js,jsx,ts,tsx,vue}',
   ],
   theme: {
